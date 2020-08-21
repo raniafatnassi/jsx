@@ -49,8 +49,12 @@ function App(){
     <>
     <div style={{border:'solid 1px black', maxWidth:'100vw'}}>  
          <h1 className='title red'>Rania Fatnassi</h1>  
+              <>
               <img className='profilesrc' src={profilePictute}/> 
+              </>
+              <>
              	<img src='profile.png' /> 
+              </>
     </div>   
 
     <div>
